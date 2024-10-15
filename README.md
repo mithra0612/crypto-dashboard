@@ -1,2 +1,8 @@
-# crypto-dashboard
-This cryptocurrency dashboard is a React-based project for practicing core concepts. It provides real-time crypto data with features for tracking prices, trends, and other metrics. The interactive UI includes filtering and sorting, making it easy to monitor the latest market updates. Designed to enhance React skills.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
